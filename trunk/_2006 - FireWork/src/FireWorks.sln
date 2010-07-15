@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FireWorks", "FireWorks.vcproj", "{DB63D3B0-907E-473D-B35F-595D2AC0F198}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DB63D3B0-907E-473D-B35F-595D2AC0F198}.Debug.ActiveCfg = Debug|Win32
+		{DB63D3B0-907E-473D-B35F-595D2AC0F198}.Debug.Build.0 = Debug|Win32
+		{DB63D3B0-907E-473D-B35F-595D2AC0F198}.Release.ActiveCfg = Release|Win32
+		{DB63D3B0-907E-473D-B35F-595D2AC0F198}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
