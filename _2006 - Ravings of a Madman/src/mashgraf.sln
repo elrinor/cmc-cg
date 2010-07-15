@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mashgraf", "mashgraf.vcproj", "{571017B1-972C-47DA-BB84-8B1D51BB0B1E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{571017B1-972C-47DA-BB84-8B1D51BB0B1E}.Debug.ActiveCfg = Debug|Win32
+		{571017B1-972C-47DA-BB84-8B1D51BB0B1E}.Debug.Build.0 = Debug|Win32
+		{571017B1-972C-47DA-BB84-8B1D51BB0B1E}.Release.ActiveCfg = Release|Win32
+		{571017B1-972C-47DA-BB84-8B1D51BB0B1E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
