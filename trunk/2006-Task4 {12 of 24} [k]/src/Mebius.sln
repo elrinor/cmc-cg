@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mebius", "Mebius.vcproj", "{DF0EF725-94C3-4F90-BCAF-2275E593C64D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DF0EF725-94C3-4F90-BCAF-2275E593C64D}.Debug.ActiveCfg = Debug|Win32
+		{DF0EF725-94C3-4F90-BCAF-2275E593C64D}.Debug.Build.0 = Debug|Win32
+		{DF0EF725-94C3-4F90-BCAF-2275E593C64D}.Release.ActiveCfg = Release|Win32
+		{DF0EF725-94C3-4F90-BCAF-2275E593C64D}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

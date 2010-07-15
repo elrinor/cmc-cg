@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Waterfall", "Waterfall.vcproj", "{FF5A736A-24B6-42A6-9849-BF915CB7B495}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FF5A736A-24B6-42A6-9849-BF915CB7B495}.Debug.ActiveCfg = Debug|Win32
+		{FF5A736A-24B6-42A6-9849-BF915CB7B495}.Debug.Build.0 = Debug|Win32
+		{FF5A736A-24B6-42A6-9849-BF915CB7B495}.Release.ActiveCfg = Release|Win32
+		{FF5A736A-24B6-42A6-9849-BF915CB7B495}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
